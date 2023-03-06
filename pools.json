@@ -306,12 +306,6 @@
     ],
     "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x1::aptos_coin::AptosCoin": [
       {
-        "dexType": 6,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 952
-      },
-      {
         "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
@@ -319,6 +313,12 @@
       },
       {
         "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 952
@@ -736,12 +736,6 @@
     ],
     "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x1::aptos_coin::AptosCoin": [
       {
-        "dexType": 6,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 952
-      },
-      {
         "dexType": 13,
         "poolType": 2,
         "xCoin": 952,
@@ -749,6 +743,12 @@
       },
       {
         "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 952
