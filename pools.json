@@ -1,7 +1,1274 @@
 {
-  "splitable_pools": {},
-  "high_gas_splitable_pool": {},
+  "splitable_pools": {
+    "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      }
+    ],
+    "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos-0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 952
+      }
+    ],
+    "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 231,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 231
+      }
+    ],
+    "0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 351,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 351
+      }
+    ],
+    "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 1
+      }
+    ],
+    "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2003
+      },
+      {
+        "dexType": 8,
+        "poolType": 1,
+        "xCoin": 2003,
+        "yCoin": 2001
+      }
+    ],
+    "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      }
+    ],
+    "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2002
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2002
+      }
+    ],
+    "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2003,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2003
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 2003,
+        "yCoin": 1
+      }
+    ],
+    "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 2004,
+        "yCoin": 1
+      }
+    ],
+    "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2011,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2011
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 1
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 156
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin": [
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 952,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 952
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH-0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3002,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3002
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3004
+      }
+    ],
+    "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 6,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      }
+    ],
+    "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 712
+      },
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 712,
+        "yCoin": 1
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT-0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      }
+    ],
+    "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 4001
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 4001
+      }
+    ],
+    "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 952
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 952,
+        "yCoin": 2001
+      }
+    ],
+    "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2002
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2002
+      }
+    ]
+  },
+  "high_gas_splitable_pool": {
+    "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 13,
+        "poolType": 2,
+        "xCoin": 156,
+        "yCoin": 1
+      },
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      }
+    ],
+    "0xd0b4efb4be7c3508d9a26a9b5405cf9f860d0b9e5fe2f498b90e68b8d2cedd3e::aptos_launch_token::AptosLaunchToken-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 13,
+        "poolType": 60,
+        "xCoin": 928,
+        "yCoin": 1
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 928
+      }
+    ],
+    "0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos-0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 952
+      }
+    ],
+    "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 231,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 231
+      }
+    ],
+    "0x1000000fa32d122c18a6a31c009ce5e71674f22d06a581bb0a15575e6addadcc::usda::USDA-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 351,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 351
+      }
+    ],
+    "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "dexType": 13,
+        "poolType": 60,
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2001
+      }
+    ],
+    "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2003
+      },
+      {
+        "dexType": 8,
+        "poolType": 1,
+        "xCoin": 2003,
+        "yCoin": 2001
+      }
+    ],
+    "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2004
+      }
+    ],
+    "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2002
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2002
+      }
+    ],
+    "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2003,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2003
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 2003,
+        "yCoin": 1
+      }
+    ],
+    "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 2004,
+        "yCoin": 1
+      }
+    ],
+    "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2011,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 2011
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 1
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0xd11107bdf0d6d7040c6c0bfbdecb6545191fdf13e8d8d259952f53e1713f61b5::staked_coin::StakedAptos": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 156
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 156,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin": [
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 952,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 13,
+        "poolType": 60,
+        "xCoin": 952,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 952
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH-0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3002,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3002
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::WETH-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 7,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 3004
+      }
+    ],
+    "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 6,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      }
+    ],
+    "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 712
+      },
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 712,
+        "yCoin": 1
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
+      },
+      {
+        "dexType": 13,
+        "poolType": 2,
+        "xCoin": 3001,
+        "yCoin": 2001
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
+      }
+    ],
+    "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT-0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 13,
+        "poolType": 2,
+        "xCoin": 3002,
+        "yCoin": 3001
+      }
+    ],
+    "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 4001
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 4001
+      }
+    ],
+    "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 952
+      },
+      {
+        "dexType": 10,
+        "poolType": 0,
+        "xCoin": 952,
+        "yCoin": 2001
+      }
+    ],
+    "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin-0x1::aptos_coin::AptosCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 101
+      },
+      {
+        "dexType": 13,
+        "poolType": 60,
+        "xCoin": 101,
+        "yCoin": 1
+      }
+    ],
+    "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T-0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2002
+      },
+      {
+        "dexType": 12,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 2002
+      }
+    ],
+    "0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdtCoin-0x8d87a65ba30e09357fa2edea2c80dbac296e5dec2b18287113500b902942929d::celer_coin_manager::UsdcCoin": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 4001,
+        "yCoin": 4002
+      },
+      {
+        "dexType": 13,
+        "poolType": 2,
+        "xCoin": 4002,
+        "yCoin": 4001
+      }
+    ]
+  },
   "pools": {
+    "anime": [
+      {
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 231
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 351
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 712
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2002
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2003
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2011
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3004
+      },
+      {
+        "xCoin": 156,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 351,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 3002
+      }
+    ],
+    "aptoswap": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2002
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 2003,
+        "yCoin": 1
+      },
+      {
+        "xCoin": 2004,
+        "yCoin": 1
+      },
+      {
+        "xCoin": 3004,
+        "yCoin": 1
+      }
+    ],
+    "aux_market": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 351,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 1
+      },
+      {
+        "xCoin": 2003,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 2004,
+        "yCoin": 351
+      },
+      {
+        "xCoin": 2004,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 2011,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 2113,
+        "yCoin": 2001
+      }
+    ],
+    "cetus_amm": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 4001
+      },
+      {
+        "xCoin": 156,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 3004,
+        "yCoin": 3001
+      }
+    ],
+    "cetus_clmm": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001,
+        "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001,
+        "address": "0xdae1bde80d33bc5305fa12de9d098e5fc4017a1bc48d755558c50e9d9675a2d9",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3002,
+        "address": "0xb612ed25e7b5a29cb41fcf7e608faf922f893b631f7bdab67eec4db98847d495",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 101,
+        "yCoin": 1,
+        "address": "0xe9b3057b29b4fc09bd64530aa56d6873f0e8360c6cdd7f80d8fd728af992a78f",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 156,
+        "yCoin": 1,
+        "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
+        "tickSpacing": 2
+      },
+      {
+        "xCoin": 928,
+        "yCoin": 1,
+        "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 1,
+        "address": "0x9e3fd498f89e8e7e36720a2c9b6f4bfefe4f7ef1db7e4a7ee5735cebadb06126",
+        "tickSpacing": 2
+      },
+      {
+        "xCoin": 952,
+        "yCoin": 3001,
+        "address": "0x981016868250a097efcefc6be0d8873701baa3cd33a29cf738be93893c5ee354",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 2004,
+        "yCoin": 2001,
+        "address": "0x2e441bd3adc2e23e102a7ee3c5c3abc71080bb7f081bba9c44442c978fd06bb3",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 2001,
+        "address": "0x9d68e56fff677c57342a031ac3ab2999946c98db4ff29330e33273839bae46d5",
+        "tickSpacing": 2
+      },
+      {
+        "xCoin": 3002,
+        "yCoin": 3001,
+        "address": "0x4b0f0ca14ef461b8a24515b519ba740729ed60ac028a6d4d5b99148b31f2c72",
+        "tickSpacing": 2
+      },
+      {
+        "xCoin": 3004,
+        "yCoin": 3001,
+        "address": "0x2d08c1ffce005855f6b168f3ef150480acdecd29fa878f7c9d610496a48affb7",
+        "tickSpacing": 60
+      },
+      {
+        "xCoin": 4002,
+        "yCoin": 4001,
+        "address": "0xab09c0d51d7b3201eaee35f18e2e6ebd7ad690fbb261ed11fdaaf9a79d1ee4f",
+        "tickSpacing": 2
+      }
+    ],
+    "obric_v1": [
+      {
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2002
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 3001
+      }
+    ],
+    "obric_v2": [],
+    "pancake": [
+      {
+        "xCoin": 1,
+        "yCoin": 101
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 912
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3004
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 4001
+      },
+      {
+        "xCoin": 156,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 256,
+        "yCoin": 4001
+      },
+      {
+        "xCoin": 397,
+        "yCoin": 1
+      },
+      {
+        "xCoin": 397,
+        "yCoin": 912
+      },
+      {
+        "xCoin": 397,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 397,
+        "yCoin": 4001
+      },
+      {
+        "xCoin": 712,
+        "yCoin": 1
+      },
+      {
+        "xCoin": 790,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 952
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2002
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2006
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 3001
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 3004
+      },
+      {
+        "xCoin": 4001,
+        "yCoin": 4002
+      },
+      {
+        "xCoin": 4001,
+        "yCoin": 4004
+      },
+      {
+        "xCoin": 4113,
+        "yCoin": 4001
+      }
+    ],
     "pontem_stable": [
       {
         "xCoin": 1,
