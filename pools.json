@@ -764,10 +764,10 @@
         "yCoin": 3002
       },
       {
-        "dexType": 13,
-        "poolType": 60,
-        "xCoin": 1,
-        "yCoin": 3002
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3002,
+        "yCoin": 1
       }
     ],
     "1-3004": [
