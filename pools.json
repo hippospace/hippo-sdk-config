@@ -392,6 +392,12 @@
     ],
     "3001-3002": [
       {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
         "dexType": 8,
         "poolType": 0,
         "xCoin": 3001,
