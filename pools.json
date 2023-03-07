@@ -436,6 +436,12 @@
         "poolType": 0,
         "xCoin": 2001,
         "yCoin": 3001
+      },
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
       }
     ],
     "1-4001": [
@@ -1393,6 +1399,10 @@
       {
         "xCoin": 2001,
         "yCoin": 2006
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 3001
       },
       {
         "xCoin": 3001,
