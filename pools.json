@@ -500,14 +500,14 @@
         "yCoin": 2001
       },
       {
-        "dexType": 13,
-        "poolType": 60,
+        "dexType": 12,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 2001
       },
       {
-        "dexType": 12,
-        "poolType": 0,
+        "dexType": 13,
+        "poolType": 60,
         "xCoin": 1,
         "yCoin": 2001
       }
@@ -742,16 +742,16 @@
         "yCoin": 952
       },
       {
-        "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 952
-      },
-      {
         "dexType": 13,
         "poolType": 2,
         "xCoin": 952,
         "yCoin": 1
+      },
+      {
+        "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
       }
     ],
     "0x16fe2df00ea7dde4a63409201f7f4e536bde7bb7335526a35d05111e68aa322c::AnimeCoin::ANI-0x1::aptos_coin::AptosCoin": [
