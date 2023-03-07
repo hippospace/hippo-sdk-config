@@ -210,10 +210,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 12,
+        "dexType": 3,
         "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 3001
+        "xCoin": 3001,
+        "yCoin": 1
       }
     ],
     "156-3001": [
@@ -678,10 +678,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 12,
+        "dexType": 3,
         "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 3001
+        "xCoin": 3001,
+        "yCoin": 1
       }
     ],
     "156-3001": [
