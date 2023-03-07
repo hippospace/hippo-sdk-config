@@ -1,5 +1,4 @@
 {
-  
   "splitable_pools": {
     "1-156": [
       {
@@ -211,10 +210,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 3,
+        "dexType": 12,
         "poolType": 0,
-        "xCoin": 3001,
-        "yCoin": 1
+        "xCoin": 1,
+        "yCoin": 3001
       }
     ],
     "156-3001": [
@@ -685,10 +684,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 3,
+        "dexType": 12,
         "poolType": 0,
-        "xCoin": 3001,
-        "yCoin": 1
+        "xCoin": 1,
+        "yCoin": 3001
       }
     ],
     "156-3001": [
