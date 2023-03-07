@@ -350,12 +350,6 @@
         "poolType": 0,
         "xCoin": 2001,
         "yCoin": 3001
-      },
-      {
-        "dexType": 11,
-        "poolType": 0,
-        "xCoin": 2001,
-        "yCoin": 3001
       }
     ],
     "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDT-0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC": [
@@ -500,14 +494,14 @@
         "yCoin": 2001
       },
       {
-        "dexType": 12,
-        "poolType": 0,
+        "dexType": 13,
+        "poolType": 60,
         "xCoin": 1,
         "yCoin": 2001
       },
       {
-        "dexType": 13,
-        "poolType": 60,
+        "dexType": 12,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 2001
       }
@@ -1243,10 +1237,6 @@
       {
         "xCoin": 2001,
         "yCoin": 2006
-      },
-      {
-        "xCoin": 2001,
-        "yCoin": 3001
       },
       {
         "xCoin": 3001,
