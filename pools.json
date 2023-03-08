@@ -2,12 +2,6 @@
   "splitable_pools": {
     "1-156": [
       {
-        "dexType": 5,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -15,6 +9,12 @@
       },
       {
         "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "dexType": 3,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
@@ -108,7 +108,7 @@
         "yCoin": 2001
       },
       {
-        "dexType": 7,
+        "dexType": 12,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2001
@@ -338,12 +338,6 @@
     ],
     "1-952": [
       {
-        "dexType": 6,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 952
-      },
-      {
         "dexType": 12,
         "poolType": 0,
         "xCoin": 1,
@@ -351,6 +345,12 @@
       },
       {
         "dexType": 8,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 952
@@ -496,12 +496,6 @@
   "high_gas_splitable_pool": {
     "1-156": [
       {
-        "dexType": 5,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -509,6 +503,12 @@
       },
       {
         "dexType": 9,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "dexType": 3,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
@@ -846,12 +846,6 @@
     ],
     "1-952": [
       {
-        "dexType": 6,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 952
-      },
-      {
         "dexType": 12,
         "poolType": 0,
         "xCoin": 1,
@@ -859,6 +853,12 @@
       },
       {
         "dexType": 8,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 952
+      },
+      {
+        "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 952
