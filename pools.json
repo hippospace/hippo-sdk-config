@@ -1314,8 +1314,18 @@
         "yCoin": 3001
       }
     ],
-    "obric_v2": [],
-    "obric_v3": [],
+    "obric_v2": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      }
+    ],
+    "obric_v3": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001
+      }
+    ],
     "pancake": [
       {
         "xCoin": 1,
