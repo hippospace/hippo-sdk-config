@@ -108,7 +108,7 @@
         "yCoin": 2001
       },
       {
-        "dexType": 12,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2001
@@ -496,6 +496,12 @@
   "high_gas_splitable_pool": {
     "1-156": [
       {
+        "dexType": 13,
+        "poolType": 2,
+        "xCoin": 156,
+        "yCoin": 1
+      },
+      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -503,12 +509,6 @@
       },
       {
         "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
-        "dexType": 3,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
@@ -1196,6 +1196,10 @@
       {
         "xCoin": 1,
         "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 2002
       },
       {
         "xCoin": 1,
