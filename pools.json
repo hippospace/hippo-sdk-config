@@ -2,6 +2,12 @@
   "splitable_pools": {
     "1-156": [
       {
+        "dexType": 5,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -9,12 +15,6 @@
       },
       {
         "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
-        "dexType": 3,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
@@ -496,6 +496,12 @@
   "high_gas_splitable_pool": {
     "1-156": [
       {
+        "dexType": 5,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -503,12 +509,6 @@
       },
       {
         "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
-        "dexType": 3,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
