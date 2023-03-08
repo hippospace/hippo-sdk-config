@@ -1344,8 +1344,8 @@
     ],
     "pontem_uncorrelated": [
       {
-        "xCoin": 3001,
-        "yCoin": 3004
+        "xCoin": 2001,
+        "yCoin": 551
       },
       {
         "xCoin": 3002,
@@ -1353,11 +1353,31 @@
       },
       {
         "xCoin": 3001,
-        "yCoin": 952
+        "yCoin": 3004
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
+        "xCoin": 2002,
+        "yCoin": 2003
       },
       {
         "xCoin": 2003,
         "yCoin": 3004
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2004
+      },
+      {
+        "xCoin": 2001,
+        "yCoin": 2003
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 952
       }
     ]
   }
