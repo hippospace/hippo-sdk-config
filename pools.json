@@ -1342,27 +1342,6 @@
         "yCoin": 4001
       }
     ],
-    "pontem_uncorrelated": [
-      {
-        "xCoin": 3001,
-        "yCoin": 3004
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
-        "xCoin": 231,
-        "yCoin": 1
-      },
-      {
-        "xCoin": 551,
-        "yCoin": 1
-      },
-      {
-        "xCoin": 351,
-        "yCoin": 1
-      }
-    ]
+    "pontem_uncorrelated": []
   }
 }
