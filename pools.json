@@ -14,7 +14,7 @@
         "yCoin": 2001
       },
       {
-        "dexType": 7,
+        "dexType": 12,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2001
@@ -130,6 +130,12 @@
     ],
     "1-156": [
       {
+        "dexType": 5,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -137,12 +143,6 @@
       },
       {
         "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 156
-      },
-      {
-        "dexType": 8,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
@@ -526,6 +526,12 @@
     ],
     "1-156": [
       {
+        "dexType": 5,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 156
+      },
+      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 1,
@@ -536,12 +542,6 @@
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
-      },
-      {
-        "dexType": 13,
-        "poolType": 2,
-        "xCoin": 156,
-        "yCoin": 1
       }
     ],
     "1-351": [
@@ -1206,6 +1206,10 @@
       {
         "xCoin": 1,
         "yCoin": 2001
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001
       }
     ],
     "pancake": [
@@ -1352,11 +1356,11 @@
         "yCoin": 3004
       },
       {
-        "xCoin": 231,
+        "xCoin": 351,
         "yCoin": 1
       },
       {
-        "xCoin": 351,
+        "xCoin": 231,
         "yCoin": 1
       }
     ]
