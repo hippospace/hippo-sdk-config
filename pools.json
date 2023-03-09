@@ -1527,11 +1527,15 @@
       },
       {
         "xCoin": 1,
-        "yCoin": 928
+        "yCoin": 971
       },
       {
         "xCoin": 1,
-        "yCoin": 971
+        "yCoin": 928
+      },
+      {
+        "xCoin": 351,
+        "yCoin": 1
       },
       {
         "xCoin": 231,
@@ -1542,15 +1546,11 @@
         "yCoin": 1
       },
       {
-        "xCoin": 351,
+        "xCoin": 591,
         "yCoin": 1
       },
       {
         "xCoin": 2002,
-        "yCoin": 1
-      },
-      {
-        "xCoin": 591,
         "yCoin": 1
       },
       {
@@ -1562,11 +1562,11 @@
         "yCoin": 1
       },
       {
-        "xCoin": 2004,
+        "xCoin": 2011,
         "yCoin": 1
       },
       {
-        "xCoin": 2011,
+        "xCoin": 2004,
         "yCoin": 1
       },
       {
@@ -1582,12 +1582,12 @@
         "yCoin": 1
       },
       {
-        "xCoin": 156,
-        "yCoin": 952
-      },
-      {
         "xCoin": 351,
         "yCoin": 156
+      },
+      {
+        "xCoin": 156,
+        "yCoin": 952
       },
       {
         "xCoin": 2001,
