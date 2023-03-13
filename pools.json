@@ -156,13 +156,13 @@
         "yCoin": 3001
       },
       {
-        "dexType": 12,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
       },
       {
-        "dexType": 7,
+        "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
@@ -318,13 +318,13 @@
     ],
     "1-2004": [
       {
-        "dexType": 7,
+        "dexType": 3,
         "poolType": 0,
         "xCoin": 2004,
         "yCoin": 1
       },
       {
-        "dexType": 3,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 2004,
         "yCoin": 1
@@ -548,7 +548,7 @@
         "yCoin": 3001
       },
       {
-        "dexType": 12,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
@@ -704,13 +704,13 @@
     ],
     "1-2004": [
       {
-        "dexType": 7,
+        "dexType": 3,
         "poolType": 0,
         "xCoin": 2004,
         "yCoin": 1
       },
       {
-        "dexType": 3,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 2004,
         "yCoin": 1
@@ -910,12 +910,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 3092
+        "gasUnits": 2954
       },
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 3092
+        "gasUnits": 3097
       },
       {
         "xCoin": 1,
@@ -935,7 +935,7 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 3092
+        "gasUnits": 3140
       },
       {
         "xCoin": 2004,
@@ -1118,7 +1118,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 8351,
+        "gasUnits": 8582,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60
       },
@@ -1162,17 +1162,12 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 2990
+        "gasUnits": 2969
       },
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 2973
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 3001,
-        "gasUnits": 2975
+        "gasUnits": 2967
       }
     ],
     "obric_v2": [],
@@ -1413,7 +1408,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3004,
-        "gasUnits": 6703
+        "gasUnits": 6681
       },
       {
         "xCoin": 3002,
