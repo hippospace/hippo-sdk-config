@@ -938,7 +938,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 3209
+        "gasUnits": 3092
       },
       {
         "xCoin": 1,
@@ -973,7 +973,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 3094
+        "gasUnits": 2956
       }
     ],
     "aux_market": [
@@ -1378,7 +1378,7 @@
       {
         "xCoin": 231,
         "yCoin": 1,
-        "gasUnits": 6525
+        "gasUnits": 6546
       },
       {
         "xCoin": 351,
