@@ -396,12 +396,6 @@
         "poolType": 0,
         "xCoin": 2001,
         "yCoin": 952
-      },
-      {
-        "dexType": 10,
-        "poolType": 0,
-        "xCoin": 952,
-        "yCoin": 2001
       }
     ],
     "3001-3004": [
@@ -870,12 +864,6 @@
         "poolType": 0,
         "xCoin": 2001,
         "yCoin": 952
-      },
-      {
-        "dexType": 10,
-        "poolType": 0,
-        "xCoin": 952,
-        "yCoin": 2001
       }
     ],
     "3001-3004": [
@@ -1252,11 +1240,6 @@
       },
       {
         "xCoin": 952,
-        "yCoin": 2001,
-        "gasUnits": 5919
-      },
-      {
-        "xCoin": 952,
         "yCoin": 3001,
         "gasUnits": 5924
       },
@@ -1472,11 +1455,6 @@
         "xCoin": 397,
         "yCoin": 4001,
         "gasUnits": 3341
-      },
-      {
-        "xCoin": 553,
-        "yCoin": 923,
-        "gasUnits": 4115
       },
       {
         "xCoin": 2001,
