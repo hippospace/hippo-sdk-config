@@ -1116,7 +1116,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 8005,
+        "gasUnits": 7982,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60
       },
@@ -1219,7 +1219,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": null
+        "gasUnits": 150
       }
     ],
     "obric_v3": [],
@@ -1247,7 +1247,7 @@
       {
         "xCoin": 1,
         "yCoin": 912,
-        "gasUnits": 150
+        "gasUnits": 4499
       },
       {
         "xCoin": 1,
@@ -1262,12 +1262,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 150
+        "gasUnits": 4499
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 150
+        "gasUnits": 4499
       },
       {
         "xCoin": 1,
@@ -1282,7 +1282,7 @@
       {
         "xCoin": 1,
         "yCoin": 4001,
-        "gasUnits": 150
+        "gasUnits": 4499
       },
       {
         "xCoin": 156,
@@ -1292,7 +1292,7 @@
       {
         "xCoin": 256,
         "yCoin": 4001,
-        "gasUnits": 150
+        "gasUnits": 4499
       },
       {
         "xCoin": 397,
@@ -1339,14 +1339,14 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": null
+        "gasUnits": 150
       }
     ],
     "tortuga": [
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": null
+        "gasUnits": 150
       }
     ],
     "pontem_uncorrelated": [
@@ -1443,7 +1443,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 6544
+        "gasUnits": 6522
       },
       {
         "xCoin": 3001,
