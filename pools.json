@@ -36,16 +36,16 @@
     ],
     "1-2002": [
       {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2002,
-        "yCoin": 1
-      },
-      {
         "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2002
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
       }
     ],
     "1-551": [
@@ -76,7 +76,7 @@
         "yCoin": 3001
       },
       {
-        "dexType": 9,
+        "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
@@ -242,16 +242,16 @@
     ],
     "1-2002": [
       {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2002,
-        "yCoin": 1
-      },
-      {
         "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2002
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
       }
     ],
     "1-551": [
@@ -276,14 +276,14 @@
         "yCoin": 3001
       },
       {
-        "dexType": 12,
-        "poolType": 0,
+        "dexType": 13,
+        "poolType": 60,
         "xCoin": 1,
         "yCoin": 3001
       },
       {
-        "dexType": 13,
-        "poolType": 60,
+        "dexType": 12,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
       }
@@ -610,6 +610,11 @@
       },
       {
         "xCoin": 1,
+        "yCoin": 2004,
+        "gasUnits": 3157
+      },
+      {
+        "xCoin": 1,
         "yCoin": 3001,
         "gasUnits": 3161
       },
@@ -730,7 +735,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 10516,
+        "gasUnits": 10540,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -738,7 +743,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 8052,
+        "gasUnits": 8090,
         "address": "0xdae1bde80d33bc5305fa12de9d098e5fc4017a1bc48d755558c50e9d9675a2d9",
         "tickSpacing": 60,
         "poolType": 60
@@ -1029,7 +1034,7 @@
       {
         "xCoin": 231,
         "yCoin": 1,
-        "gasUnits": 6519
+        "gasUnits": 6540
       },
       {
         "xCoin": 351,
@@ -1124,7 +1129,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3004,
-        "gasUnits": 6675
+        "gasUnits": 6697
       },
       {
         "xCoin": 3002,
