@@ -1446,13 +1446,6 @@
         "gasUnits": 3086
       }
     ],
-    "obric_v2": [
-      {
-        "xCoin": 1,
-        "yCoin": 2001,
-        "gasUnits": 150
-      }
-    ],
     "obric_v3": [
       {
         "xCoin": 1,
