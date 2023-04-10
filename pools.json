@@ -1248,7 +1248,7 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 109
+        "gasUnits": 114
       },
       {
         "xCoin": 551,
@@ -1743,7 +1743,7 @@
       {
         "xCoin": 231,
         "yCoin": 1,
-        "gasUnits": 169
+        "gasUnits": 170
       },
       {
         "xCoin": 351,
@@ -1843,7 +1843,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3004,
-        "gasUnits": 172
+        "gasUnits": 171
       },
       {
         "xCoin": 3002,
