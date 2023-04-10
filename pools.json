@@ -122,16 +122,16 @@
         "yCoin": 2002
       },
       {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2002,
-        "yCoin": 1
-      },
-      {
         "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2002
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
       }
     ],
     "1-2003": [
@@ -250,12 +250,6 @@
     ],
     "1-3004": [
       {
-        "dexType": 8,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 3004
-      },
-      {
         "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
@@ -266,6 +260,12 @@
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
       }
     ],
     "1-392": [
@@ -666,16 +666,16 @@
         "yCoin": 2002
       },
       {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2002,
-        "yCoin": 1
-      },
-      {
         "dexType": 7,
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 2002
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2002,
+        "yCoin": 1
       }
     ],
     "1-2003": [
@@ -794,12 +794,6 @@
     ],
     "1-3004": [
       {
-        "dexType": 8,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 3004
-      },
-      {
         "dexType": 9,
         "poolType": 0,
         "xCoin": 1,
@@ -810,6 +804,12 @@
         "poolType": 0,
         "xCoin": 1,
         "yCoin": 3004
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3004,
+        "yCoin": 1
       }
     ],
     "1-392": [
@@ -1233,7 +1233,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 100
+        "gasUnits": 96
       },
       {
         "xCoin": 1,
@@ -1243,17 +1243,17 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 96
+        "gasUnits": 100
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 96
+        "gasUnits": 104
       },
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 100
+        "gasUnits": 96
       },
       {
         "xCoin": 2003,
@@ -1833,7 +1833,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 152
+        "gasUnits": 151
       },
       {
         "xCoin": 3001,
@@ -2034,18 +2034,6 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 207,
-        "thalaWeight": {
-          "asset_0": 129,
-          "asset_1": 1,
-          "weight_0": "55",
-          "weight_1": "45"
-        },
-        "poolType": 27025995811103744
-      },
-      {
-        "xCoin": 129,
-        "yCoin": 1,
         "gasUnits": 198,
         "thalaWeight": {
           "asset_0": 129,
@@ -2054,6 +2042,18 @@
           "weight_1": "50"
         },
         "poolType": 27025995811072000
+      },
+      {
+        "xCoin": 129,
+        "yCoin": 1,
+        "gasUnits": 207,
+        "thalaWeight": {
+          "asset_0": 129,
+          "asset_1": 1,
+          "weight_0": "55",
+          "weight_1": "45"
+        },
+        "poolType": 27025995811103744
       },
       {
         "xCoin": 129,
@@ -2084,18 +2084,6 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 191,
-        "thalaWeight": {
-          "asset_0": 3001,
-          "asset_1": 1,
-          "weight_0": "50",
-          "weight_1": "50"
-        },
-        "poolType": 72061992084776960
-      },
-      {
-        "xCoin": 3001,
-        "yCoin": 1,
         "gasUnits": 207,
         "thalaWeight": {
           "asset_0": 3001,
@@ -2104,6 +2092,18 @@
           "weight_1": "80"
         },
         "poolType": 72061992084586500
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 1,
+        "gasUnits": 191,
+        "thalaWeight": {
+          "asset_0": 3001,
+          "asset_1": 1,
+          "weight_0": "50",
+          "weight_1": "50"
+        },
+        "poolType": 72061992084776960
       }
     ]
   }
