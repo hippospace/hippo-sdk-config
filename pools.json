@@ -644,10 +644,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 13,
-        "poolType": 2,
-        "xCoin": 3001,
-        "yCoin": 2001
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 2001,
+        "yCoin": 3001
       }
     ],
     "351-3001": [
@@ -1364,17 +1364,17 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 555
+        "gasUnits": 579
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 532
+        "gasUnits": 579
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 532
+        "gasUnits": 556
       },
       {
         "xCoin": 551,
@@ -1581,7 +1581,7 @@
       {
         "xCoin": 101,
         "yCoin": 1,
-        "gasUnits": 713,
+        "gasUnits": 712,
         "address": "0xe9b3057b29b4fc09bd64530aa56d6873f0e8360c6cdd7f80d8fd728af992a78f",
         "tickSpacing": 60,
         "poolType": 60
@@ -1629,7 +1629,7 @@
       {
         "xCoin": 3002,
         "yCoin": 3001,
-        "gasUnits": 747,
+        "gasUnits": 765,
         "address": "0x4b0f0ca14ef461b8a24515b519ba740729ed60ac028a6d4d5b99148b31f2c72",
         "tickSpacing": 2,
         "poolType": 2
@@ -1639,7 +1639,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 529
+        "gasUnits": 533
       },
       {
         "xCoin": 1,
@@ -2016,12 +2016,12 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3777
+        "gasUnits": 3745
       },
       {
         "xCoin": 156,
         "yCoin": 952,
-        "gasUnits": 2956
+        "gasUnits": 3059
       },
       {
         "xCoin": 2001,
@@ -2041,7 +2041,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3752
+        "gasUnits": 3826
       },
       {
         "xCoin": 2002,
@@ -2257,7 +2257,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 738,
+        "gasUnits": 737,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
