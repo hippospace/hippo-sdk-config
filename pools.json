@@ -282,20 +282,6 @@
         "yCoin": 392
       }
     ],
-    "1-231": [
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 231,
-        "yCoin": 1
-      },
-      {
-        "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 231
-      }
-    ],
     "1-156": [
       {
         "dexType": 11,
@@ -778,20 +764,6 @@
         "yCoin": 392
       }
     ],
-    "1-231": [
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 231,
-        "yCoin": 1
-      },
-      {
-        "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 231
-      }
-    ],
     "1-156": [
       {
         "dexType": 3,
@@ -1068,11 +1040,6 @@
       },
       {
         "xCoin": 1,
-        "yCoin": 231,
-        "gasUnits": 605
-      },
-      {
-        "xCoin": 1,
         "yCoin": 351,
         "gasUnits": 603
       },
@@ -1176,7 +1143,7 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 550
+        "gasUnits": 526
       },
       {
         "xCoin": 1,
@@ -1196,17 +1163,17 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 550
+        "gasUnits": 526
       },
       {
         "xCoin": 2004,
         "yCoin": 1,
-        "gasUnits": 550
+        "gasUnits": 526
       },
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 551
+        "gasUnits": 527
       }
     ],
     "aux_market": [
@@ -1389,14 +1356,6 @@
         "poolType": 60
       },
       {
-        "xCoin": 156,
-        "yCoin": 1,
-        "gasUnits": 726,
-        "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
-        "tickSpacing": 2,
-        "poolType": 2
-      },
-      {
         "xCoin": 928,
         "yCoin": 1,
         "gasUnits": 715,
@@ -1446,7 +1405,7 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 525
+        "gasUnits": 524
       },
       {
         "xCoin": 1,
@@ -1808,32 +1767,32 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3807
+        "gasUnits": 3885
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3741
+        "gasUnits": 3695
       },
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 3048
+        "gasUnits": 3010
       },
       {
         "xCoin": 2001,
         "yCoin": 351,
-        "gasUnits": 3532
+        "gasUnits": 3497
       },
       {
         "xCoin": 2001,
         "yCoin": 2002,
-        "gasUnits": 4021
+        "gasUnits": 4024
       },
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3801
+        "gasUnits": 3725
       },
       {
         "xCoin": 2002,
@@ -1848,12 +1807,12 @@
       {
         "xCoin": 3001,
         "yCoin": 156,
-        "gasUnits": 3035
+        "gasUnits": 3030
       },
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3899
+        "gasUnits": 3889
       },
       {
         "xCoin": 3001,
@@ -1873,7 +1832,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 2816
+        "gasUnits": 2819
       }
     ],
     "thala_stable": [
@@ -2059,19 +2018,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 737,
-        "thalaWeight": {
-          "asset_0": 129,
-          "asset_1": 1,
-          "weight_0": "55",
-          "weight_1": "45"
-        },
-        "poolType": 27025995811103744
-      },
-      {
-        "xCoin": 129,
-        "yCoin": 1,
-        "gasUnits": 731,
+        "gasUnits": 732,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -2079,6 +2026,18 @@
           "weight_1": "50"
         },
         "poolType": 27025995811072000
+      },
+      {
+        "xCoin": 129,
+        "yCoin": 1,
+        "gasUnits": 736,
+        "thalaWeight": {
+          "asset_0": 129,
+          "asset_1": 1,
+          "weight_0": "55",
+          "weight_1": "45"
+        },
+        "poolType": 27025995811103744
       },
       {
         "xCoin": 129,
