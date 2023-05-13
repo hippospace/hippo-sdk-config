@@ -1103,7 +1103,7 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 531
+        "gasUnits": 555
       },
       {
         "xCoin": 1,
@@ -1113,12 +1113,12 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 532
+        "gasUnits": 556
       },
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 556
+        "gasUnits": 557
       },
       {
         "xCoin": 2003,
@@ -1133,7 +1133,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 532
+        "gasUnits": 556
       }
     ],
     "aux_market": [
@@ -1284,7 +1284,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 698,
+        "gasUnits": 723,
         "address": "0xdae1bde80d33bc5305fa12de9d098e5fc4017a1bc48d755558c50e9d9675a2d9",
         "tickSpacing": 60,
         "poolType": 60
@@ -1730,12 +1730,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3812
+        "gasUnits": 3783
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3749
+        "gasUnits": 3788
       },
       {
         "xCoin": 2001,
@@ -1755,7 +1755,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3748
+        "gasUnits": 3788
       },
       {
         "xCoin": 2002,
@@ -1775,7 +1775,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3924
+        "gasUnits": 3898
       },
       {
         "xCoin": 3001,
@@ -1800,7 +1800,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 3297
+        "gasUnits": 3299
       }
     ],
     "thala_stable": [
@@ -2030,7 +2030,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 737,
+        "gasUnits": 738,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -2116,7 +2116,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 729,
+        "gasUnits": 728,
         "thalaWeight": {
           "asset_0": 3001,
           "asset_1": 1,
