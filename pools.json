@@ -76,12 +76,6 @@
     ],
     "3001-3004": [
       {
-        "dexType": 12,
-        "poolType": 2,
-        "xCoin": 3004,
-        "yCoin": 3001
-      },
-      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 3001,
@@ -92,6 +86,12 @@
         "poolType": 0,
         "xCoin": 3004,
         "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
       }
     ],
     "1-2001": [
@@ -538,12 +538,6 @@
     ],
     "3001-3004": [
       {
-        "dexType": 12,
-        "poolType": 2,
-        "xCoin": 3004,
-        "yCoin": 3001
-      },
-      {
         "dexType": 11,
         "poolType": 0,
         "xCoin": 3001,
@@ -554,6 +548,12 @@
         "poolType": 0,
         "xCoin": 3004,
         "yCoin": 3001
+      },
+      {
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
       }
     ],
     "1-2001": [
@@ -1098,7 +1098,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 531
+        "gasUnits": 555
       },
       {
         "xCoin": 1,
@@ -1128,12 +1128,12 @@
       {
         "xCoin": 2004,
         "yCoin": 1,
-        "gasUnits": 556
+        "gasUnits": 531
       },
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 556
+        "gasUnits": 557
       }
     ],
     "aux_market": [
@@ -1730,7 +1730,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3798
+        "gasUnits": 3852
       },
       {
         "xCoin": 1,
@@ -1755,7 +1755,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3795
+        "gasUnits": 3743
       },
       {
         "xCoin": 2002,
@@ -1775,7 +1775,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3942
+        "gasUnits": 3849
       },
       {
         "xCoin": 3001,
@@ -1800,7 +1800,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 3302
+        "gasUnits": 3295
       }
     ],
     "thala_stable": [
