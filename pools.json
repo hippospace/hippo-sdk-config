@@ -1152,27 +1152,27 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 22
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 2002,
-        "gasUnits": 22
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 3001,
         "gasUnits": 21
       },
       {
         "xCoin": 1,
+        "yCoin": 2002,
+        "gasUnits": 40
+      },
+      {
+        "xCoin": 1,
+        "yCoin": 3001,
+        "gasUnits": 22
+      },
+      {
+        "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 41
+        "gasUnits": 22
       },
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 23
       },
       {
         "xCoin": 2003,
@@ -1325,7 +1325,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 249,
+        "gasUnits": 247,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -1365,7 +1365,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 342,
+        "gasUnits": 305,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1482,7 +1482,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 497
+        "gasUnits": 341
       },
       {
         "xCoin": 1,
@@ -1817,12 +1817,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3276
+        "gasUnits": 3273
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3210
+        "gasUnits": 3211
       },
       {
         "xCoin": 2001,
@@ -1862,7 +1862,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3575
+        "gasUnits": 3556
       },
       {
         "xCoin": 3001,
@@ -1887,7 +1887,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2768
+        "gasUnits": 2766
       }
     ],
     "thala_stable": [
