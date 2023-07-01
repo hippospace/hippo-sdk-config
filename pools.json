@@ -1083,27 +1083,27 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 22
+        "gasUnits": 40
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 23
       },
       {
         "xCoin": 2003,
@@ -1266,7 +1266,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 224,
+        "gasUnits": 225,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -1777,7 +1777,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3514
+        "gasUnits": 3554
       },
       {
         "xCoin": 3001,
@@ -1802,7 +1802,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2770
+        "gasUnits": 2773
       }
     ],
     "thala_stable": [
@@ -1871,7 +1871,7 @@
       {
         "xCoin": 128,
         "yCoin": 1,
-        "gasUnits": 195,
+        "gasUnits": 196,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 1,
@@ -1883,7 +1883,7 @@
       {
         "xCoin": 128,
         "yCoin": 129,
-        "gasUnits": 195,
+        "gasUnits": 196,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 129,
@@ -1895,7 +1895,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 197,
+        "gasUnits": 198,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -1907,7 +1907,7 @@
       {
         "xCoin": 132,
         "yCoin": 128,
-        "gasUnits": 195,
+        "gasUnits": 196,
         "thalaWeight": {
           "asset_0": 132,
           "asset_1": 128,
