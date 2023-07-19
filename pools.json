@@ -450,6 +450,20 @@
         "yCoin": 3004
       }
     ],
+    "1-397": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 397,
+        "yCoin": 1
+      },
+      {
+        "dexType": 3,
+        "poolType": 2,
+        "xCoin": 397,
+        "yCoin": 1
+      }
+    ],
     "1-129": [
       {
         "dexType": 11,
@@ -992,6 +1006,20 @@
         "yCoin": 3004
       }
     ],
+    "1-397": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 397,
+        "yCoin": 1
+      },
+      {
+        "dexType": 3,
+        "poolType": 2,
+        "xCoin": 397,
+        "yCoin": 1
+      }
+    ],
     "1-129": [
       {
         "dexType": 11,
@@ -1114,7 +1142,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 40
+        "gasUnits": 22
       },
       {
         "xCoin": 1,
@@ -1124,12 +1152,12 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 551,
@@ -1149,7 +1177,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 3004,
@@ -1779,7 +1807,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3316
+        "gasUnits": 3260
       },
       {
         "xCoin": 1,
@@ -1824,7 +1852,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3550
+        "gasUnits": 3527
       },
       {
         "xCoin": 3001,
@@ -1849,7 +1877,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2779
+        "gasUnits": 2774
       }
     ],
     "thala_stable": [
@@ -2000,6 +2028,11 @@
         "xCoin": 129,
         "yCoin": 3001,
         "gasUnits": 164
+      },
+      {
+        "xCoin": 397,
+        "yCoin": 1,
+        "gasUnits": 158
       },
       {
         "xCoin": 790,
