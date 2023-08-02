@@ -1161,7 +1161,7 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 22
+        "gasUnits": 40
       },
       {
         "xCoin": 1,
@@ -1171,17 +1171,17 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 23
       },
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 2004,
@@ -1329,7 +1329,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 222,
+        "gasUnits": 225,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -1805,7 +1805,7 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3206
+        "gasUnits": 3243
       },
       {
         "xCoin": 2001,
@@ -1825,7 +1825,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3407
+        "gasUnits": 3361
       },
       {
         "xCoin": 2002,
@@ -1845,7 +1845,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3525
+        "gasUnits": 3591
       },
       {
         "xCoin": 3001,
@@ -1870,7 +1870,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2783
+        "gasUnits": 2787
       }
     ],
     "thala_stable": [
@@ -1887,7 +1887,7 @@
       {
         "xCoin": 128,
         "yCoin": 3001,
-        "gasUnits": 87,
+        "gasUnits": 86,
         "thalaStable": {
           "asset_0": 128,
           "asset_1": 3001
@@ -1923,6 +1923,16 @@
           "asset_1": 1
         },
         "poolType": 81069191339180030
+      },
+      {
+        "xCoin": 3004,
+        "yCoin": 1,
+        "gasUnits": 84,
+        "thalaStable": {
+          "asset_0": 3004,
+          "asset_1": 1
+        },
+        "poolType": 90076390593921020
       }
     ],
     "thala_weight": [
