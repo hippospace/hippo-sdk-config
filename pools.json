@@ -1216,12 +1216,12 @@
       {
         "xCoin": 551,
         "yCoin": 1,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 2004,
@@ -1379,7 +1379,7 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 161,
+        "gasUnits": 160,
         "address": "0xb612ed25e7b5a29cb41fcf7e608faf922f893b631f7bdab67eec4db98847d495",
         "tickSpacing": 60,
         "poolType": 60
@@ -1506,17 +1506,17 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 150
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 150
+        "gasUnits": 21
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 150
+        "gasUnits": 21
       }
     ],
     "obric_v4": [
@@ -1811,7 +1811,7 @@
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 178
+        "gasUnits": 177
       },
       {
         "xCoin": 2001,
@@ -1903,12 +1903,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3253
+        "gasUnits": 3244
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3225
+        "gasUnits": 3176
       },
       {
         "xCoin": 2001,
@@ -1933,7 +1933,7 @@
       {
         "xCoin": 2002,
         "yCoin": 3002,
-        "gasUnits": 3105
+        "gasUnits": 3081
       },
       {
         "xCoin": 3001,
@@ -1948,7 +1948,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3622
+        "gasUnits": 3606
       },
       {
         "xCoin": 3001,
@@ -1958,7 +1958,7 @@
       {
         "xCoin": 3002,
         "yCoin": 1,
-        "gasUnits": 2664
+        "gasUnits": 2651
       },
       {
         "xCoin": 3002,
@@ -1973,7 +1973,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2823
+        "gasUnits": 2815
       }
     ],
     "thala_stable": [
