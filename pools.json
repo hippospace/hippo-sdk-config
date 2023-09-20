@@ -1848,7 +1848,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3251
+        "gasUnits": 3276
       },
       {
         "xCoin": 1,
@@ -1893,7 +1893,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3588
+        "gasUnits": 3540
       },
       {
         "xCoin": 3001,
@@ -1918,7 +1918,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2796
+        "gasUnits": 2795
       }
     ],
     "thala_stable": [
