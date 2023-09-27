@@ -1126,7 +1126,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 40
+        "gasUnits": 22
       },
       {
         "xCoin": 1,
@@ -1151,7 +1151,7 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 2004,
@@ -1161,7 +1161,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 21
+        "gasUnits": 22
       }
     ],
     "aux_market": [],
@@ -1450,7 +1450,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 352
+        "gasUnits": 508
       }
     ],
     "pancake": [
@@ -1644,7 +1644,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 51
+        "gasUnits": 49
       }
     ],
     "tortuga": [
@@ -1778,7 +1778,7 @@
       {
         "xCoin": 3002,
         "yCoin": 1,
-        "gasUnits": 118
+        "gasUnits": 181
       },
       {
         "xCoin": 3002,
@@ -1810,7 +1810,7 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3170
+        "gasUnits": 3188
       },
       {
         "xCoin": 2001,
@@ -1850,7 +1850,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3577
+        "gasUnits": 3583
       },
       {
         "xCoin": 3001,
@@ -1875,7 +1875,7 @@
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2796
+        "gasUnits": 2798
       }
     ],
     "thala_stable": [
