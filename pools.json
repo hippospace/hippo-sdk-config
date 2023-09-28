@@ -932,14 +932,14 @@
         "yCoin": 4001
       },
       {
-        "dexType": 10,
-        "poolType": 0,
+        "dexType": 13,
+        "poolType": 60,
         "xCoin": 1,
         "yCoin": 4001
       },
       {
-        "dexType": 13,
-        "poolType": 60,
+        "dexType": 10,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 4001
       }
@@ -1126,7 +1126,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
@@ -1151,7 +1151,7 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 2004,
@@ -1309,7 +1309,7 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 161,
+        "gasUnits": 160,
         "address": "0xb612ed25e7b5a29cb41fcf7e608faf922f893b631f7bdab67eec4db98847d495",
         "tickSpacing": 60,
         "poolType": 60
@@ -1341,7 +1341,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 410,
+        "gasUnits": 343,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1427,11 +1427,6 @@
     "obric_v3": [
       {
         "xCoin": 1,
-        "yCoin": 2001,
-        "gasUnits": 21
-      },
-      {
-        "xCoin": 1,
         "yCoin": 3001,
         "gasUnits": 21
       },
@@ -1445,7 +1440,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 410
+        "gasUnits": 350
       },
       {
         "xCoin": 1,
@@ -1773,7 +1768,7 @@
       {
         "xCoin": 3002,
         "yCoin": 1,
-        "gasUnits": 181
+        "gasUnits": 119
       },
       {
         "xCoin": 3002,
@@ -1800,12 +1795,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3240
+        "gasUnits": 3229
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3240
+        "gasUnits": 3142
       },
       {
         "xCoin": 2001,
@@ -1820,22 +1815,22 @@
       {
         "xCoin": 2001,
         "yCoin": 2002,
-        "gasUnits": 2868
+        "gasUnits": 2890
       },
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3466
+        "gasUnits": 3458
       },
       {
         "xCoin": 2002,
         "yCoin": 3002,
-        "gasUnits": 3060
+        "gasUnits": 3066
       },
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 2704
+        "gasUnits": 2629
       },
       {
         "xCoin": 3001,
@@ -1845,7 +1840,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3545
+        "gasUnits": 3539
       },
       {
         "xCoin": 3001,
@@ -1865,12 +1860,12 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 2355
+        "gasUnits": 2362
       },
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2804
+        "gasUnits": 2792
       }
     ],
     "thala_stable": [
@@ -1939,7 +1934,7 @@
       {
         "xCoin": 128,
         "yCoin": 1,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 1,
@@ -1951,7 +1946,7 @@
       {
         "xCoin": 128,
         "yCoin": 129,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 129,
@@ -1963,7 +1958,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 196,
+        "gasUnits": 197,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -1975,7 +1970,7 @@
       {
         "xCoin": 132,
         "yCoin": 128,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 132,
           "asset_1": 128,
@@ -2011,7 +2006,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 193,
+        "gasUnits": 194,
         "thalaWeight": {
           "asset_0": 3001,
           "asset_1": 1,
