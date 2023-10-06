@@ -1162,7 +1162,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 1,
@@ -1172,12 +1172,12 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 21
+        "gasUnits": 22
       },
       {
         "xCoin": 551,
@@ -1197,7 +1197,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       }
     ],
     "aux_market": [],
@@ -1688,7 +1688,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 50
+        "gasUnits": 49
       }
     ],
     "tortuga": [
@@ -1849,12 +1849,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3252
+        "gasUnits": 3229
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 3169
+        "gasUnits": 3194
       },
       {
         "xCoin": 2001,
@@ -1894,7 +1894,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3534
+        "gasUnits": 3536
       },
       {
         "xCoin": 3001,
@@ -1988,7 +1988,7 @@
       {
         "xCoin": 128,
         "yCoin": 1,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 1,
@@ -2000,7 +2000,7 @@
       {
         "xCoin": 128,
         "yCoin": 129,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 129,
@@ -2012,7 +2012,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 196,
+        "gasUnits": 197,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -2024,7 +2024,7 @@
       {
         "xCoin": 132,
         "yCoin": 128,
-        "gasUnits": 284,
+        "gasUnits": 285,
         "thalaWeight": {
           "asset_0": 132,
           "asset_1": 128,
