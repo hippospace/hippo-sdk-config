@@ -1449,6 +1449,11 @@
     "obric_v3": [
       {
         "xCoin": 1,
+        "yCoin": 2001,
+        "gasUnits": 21
+      },
+      {
+        "xCoin": 1,
         "yCoin": 3001,
         "gasUnits": 21
       },
@@ -1735,11 +1740,6 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 191
-      },
-      {
-        "xCoin": 2001,
-        "yCoin": 3004,
         "gasUnits": 191
       },
       {
