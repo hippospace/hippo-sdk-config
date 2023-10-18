@@ -62,14 +62,14 @@
         "yCoin": 3002
       },
       {
-        "dexType": 12,
-        "poolType": 0,
+        "dexType": 3,
+        "poolType": 3,
         "xCoin": 3001,
         "yCoin": 3002
       },
       {
-        "dexType": 3,
-        "poolType": 3,
+        "dexType": 12,
+        "poolType": 0,
         "xCoin": 3001,
         "yCoin": 3002
       }
@@ -570,8 +570,8 @@
         "yCoin": 3002
       },
       {
-        "dexType": 12,
-        "poolType": 0,
+        "dexType": 3,
+        "poolType": 3,
         "xCoin": 3001,
         "yCoin": 3002
       }
@@ -1455,6 +1455,11 @@
       }
     ],
     "obric_v3": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001,
+        "gasUnits": 150
+      },
       {
         "xCoin": 1,
         "yCoin": 3001,
