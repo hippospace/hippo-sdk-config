@@ -948,14 +948,14 @@
     ],
     "1-4002": [
       {
-        "dexType": 13,
-        "poolType": 60,
+        "dexType": 11,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 4002
       },
       {
-        "dexType": 11,
-        "poolType": 0,
+        "dexType": 13,
+        "poolType": 60,
         "xCoin": 1,
         "yCoin": 4002
       },
