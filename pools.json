@@ -291,13 +291,13 @@
       },
       {
         "dexType": 3,
-        "poolType": 3,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
       },
       {
         "dexType": 3,
-        "poolType": 0,
+        "poolType": 3,
         "xCoin": 1,
         "yCoin": 156
       }
@@ -793,7 +793,7 @@
       },
       {
         "dexType": 3,
-        "poolType": 3,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
       }
