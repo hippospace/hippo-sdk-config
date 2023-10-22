@@ -1405,14 +1405,6 @@
         "poolType": 2
       },
       {
-        "xCoin": 2002,
-        "yCoin": 2001,
-        "gasUnits": 150,
-        "address": "0x82f47f4017b551bb2463eb4fc08c56fba184e4bc94b04d2ce3cb5ef6dac6e92f",
-        "tickSpacing": 2,
-        "poolType": 2
-      },
-      {
         "xCoin": 3001,
         "yCoin": 2001,
         "gasUnits": 150,
@@ -1577,6 +1569,11 @@
       {
         "xCoin": 1,
         "yCoin": 4002,
+        "gasUnits": 150
+      },
+      {
+        "xCoin": 129,
+        "yCoin": 3004,
         "gasUnits": 150
       },
       {
