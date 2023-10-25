@@ -316,8 +316,8 @@
         "yCoin": 156
       },
       {
-        "dexType": 3,
-        "poolType": 3,
+        "dexType": 9,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 156
       }
@@ -1483,6 +1483,11 @@
       }
     ],
     "obric_v3": [
+      {
+        "xCoin": 1,
+        "yCoin": 2001,
+        "gasUnits": 150
+      },
       {
         "xCoin": 1,
         "yCoin": 3001,
