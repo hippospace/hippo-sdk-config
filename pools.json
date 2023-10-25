@@ -108,10 +108,10 @@
         "yCoin": 2001
       },
       {
-        "dexType": 3,
+        "dexType": 8,
         "poolType": 0,
-        "xCoin": 2001,
-        "yCoin": 1
+        "xCoin": 1,
+        "yCoin": 2001
       }
     ],
     "1-2002": [
