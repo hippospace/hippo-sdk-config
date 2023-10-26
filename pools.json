@@ -2024,6 +2024,16 @@
         "poolType": 18049582881570816
       },
       {
+        "xCoin": 129,
+        "yCoin": 3001,
+        "gasUnits": 150,
+        "thalaStable": {
+          "asset_0": 129,
+          "asset_1": 3001
+        },
+        "poolType": 27056782136311810
+      },
+      {
         "xCoin": 2001,
         "yCoin": 3001,
         "gasUnits": 150,
