@@ -1110,32 +1110,38 @@
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 5
       },
       {
         "xCoin": 1,
         "yCoin": 3002,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 6
       },
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 1
       },
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 2
       },
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 3
       },
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 150
+        "gasUnits": 150,
+        "poolType": 4
       }
     ],
     "anime": [
