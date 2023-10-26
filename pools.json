@@ -34,8 +34,8 @@
         "yCoin": 1
       },
       {
-        "dexType": 12,
-        "poolType": 3,
+        "dexType": 10,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
       }
@@ -564,8 +564,8 @@
         "yCoin": 1
       },
       {
-        "dexType": 12,
-        "poolType": 3,
+        "dexType": 10,
+        "poolType": 0,
         "xCoin": 1,
         "yCoin": 3001
       }
