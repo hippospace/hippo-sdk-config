@@ -316,8 +316,8 @@
         "yCoin": 156
       },
       {
-        "dexType": 9,
-        "poolType": 0,
+        "dexType": 3,
+        "poolType": 3,
         "xCoin": 1,
         "yCoin": 156
       }
