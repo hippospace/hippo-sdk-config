@@ -1123,13 +1123,13 @@
         "xCoin": 2001,
         "yCoin": 1,
         "gasUnits": 150,
-        "poolType": 1
+        "poolType": 2
       },
       {
         "xCoin": 2001,
         "yCoin": 1,
         "gasUnits": 150,
-        "poolType": 2
+        "poolType": 1
       },
       {
         "xCoin": 3001,
