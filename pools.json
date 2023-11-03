@@ -878,20 +878,6 @@
         "yCoin": 952
       }
     ],
-    "1-4005": [
-      {
-        "dexType": 13,
-        "poolType": 60,
-        "xCoin": 1,
-        "yCoin": 4005
-      },
-      {
-        "dexType": 7,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 4005
-      }
-    ],
     "2001-2002": [
       {
         "dexType": 3,
@@ -1254,11 +1240,6 @@
         "gasUnits": 150
       },
       {
-        "xCoin": 1,
-        "yCoin": 4005,
-        "gasUnits": 150
-      },
-      {
         "xCoin": 551,
         "yCoin": 1,
         "gasUnits": 150
@@ -1540,11 +1521,6 @@
       }
     ],
     "obric_v3": [
-      {
-        "xCoin": 1,
-        "yCoin": 2001,
-        "gasUnits": 150
-      },
       {
         "xCoin": 1,
         "yCoin": 3001,
