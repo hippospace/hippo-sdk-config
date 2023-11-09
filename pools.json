@@ -1653,6 +1653,11 @@
         "gasUnits": 150
       },
       {
+        "xCoin": 1,
+        "yCoin": 4113,
+        "gasUnits": 150
+      },
+      {
         "xCoin": 156,
         "yCoin": 3001,
         "gasUnits": 150
