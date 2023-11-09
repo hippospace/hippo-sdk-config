@@ -639,12 +639,6 @@
     "3001-3002": [
       {
         "dexType": 3,
-        "poolType": 1,
-        "xCoin": 3001,
-        "yCoin": 3002
-      },
-      {
-        "dexType": 3,
         "poolType": 3,
         "xCoin": 3001,
         "yCoin": 3002
@@ -652,6 +646,12 @@
       {
         "dexType": 11,
         "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3002
+      },
+      {
+        "dexType": 3,
+        "poolType": 1,
         "xCoin": 3001,
         "yCoin": 3002
       }
@@ -1322,11 +1322,6 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 2002,
         "gasUnits": 150
       },
       {
