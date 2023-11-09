@@ -456,12 +456,6 @@
         "poolType": 2,
         "xCoin": 397,
         "yCoin": 1
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 397,
-        "yCoin": 1
       }
     ],
     "1-129": [
@@ -475,20 +469,6 @@
         "dexType": 3,
         "poolType": 2,
         "xCoin": 129,
-        "yCoin": 1
-      }
-    ],
-    "1-231": [
-      {
-        "dexType": 11,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 231
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 231,
         "yCoin": 1
       }
     ],
@@ -1066,12 +1046,6 @@
         "poolType": 2,
         "xCoin": 397,
         "yCoin": 1
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 397,
-        "yCoin": 1
       }
     ],
     "1-129": [
@@ -1085,20 +1059,6 @@
         "dexType": 3,
         "poolType": 2,
         "xCoin": 129,
-        "yCoin": 1
-      }
-    ],
-    "1-231": [
-      {
-        "dexType": 11,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 231
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 231,
         "yCoin": 1
       }
     ],
@@ -1639,11 +1599,6 @@
       },
       {
         "xCoin": 1,
-        "yCoin": 231,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 1,
         "yCoin": 392,
         "gasUnits": 150
       },
@@ -1698,11 +1653,6 @@
         "gasUnits": 150
       },
       {
-        "xCoin": 1,
-        "yCoin": 4113,
-        "gasUnits": 150
-      },
-      {
         "xCoin": 156,
         "yCoin": 3001,
         "gasUnits": 150
@@ -1740,11 +1690,6 @@
       {
         "xCoin": 927,
         "yCoin": 928,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 2001,
-        "yCoin": 952,
         "gasUnits": 150
       },
       {
@@ -1861,11 +1806,6 @@
       {
         "xCoin": 351,
         "yCoin": 952,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 397,
-        "yCoin": 1,
         "gasUnits": 150
       },
       {
