@@ -456,12 +456,6 @@
         "poolType": 2,
         "xCoin": 397,
         "yCoin": 1
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 397,
-        "yCoin": 1
       }
     ],
     "1-129": [
@@ -1050,12 +1044,6 @@
       {
         "dexType": 3,
         "poolType": 2,
-        "xCoin": 397,
-        "yCoin": 1
-      },
-      {
-        "dexType": 3,
-        "poolType": 0,
         "xCoin": 397,
         "yCoin": 1
       }
@@ -1828,11 +1816,6 @@
       {
         "xCoin": 351,
         "yCoin": 952,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 397,
-        "yCoin": 1,
         "gasUnits": 150
       },
       {
