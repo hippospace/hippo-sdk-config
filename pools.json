@@ -1413,6 +1413,11 @@
         "gasUnits": 150
       },
       {
+        "xCoin": 2011,
+        "yCoin": 351,
+        "gasUnits": 150
+      },
+      {
         "xCoin": 3001,
         "yCoin": 3002,
         "gasUnits": 150
