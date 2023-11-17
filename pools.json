@@ -670,10 +670,10 @@
         "yCoin": 3001
       },
       {
-        "dexType": 13,
-        "poolType": 60,
-        "xCoin": 3004,
-        "yCoin": 3001
+        "dexType": 3,
+        "poolType": 0,
+        "xCoin": 3001,
+        "yCoin": 3004
       }
     ],
     "1-2002": [
@@ -1725,11 +1725,6 @@
       {
         "xCoin": 927,
         "yCoin": 928,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 2001,
-        "yCoin": 952,
         "gasUnits": 150
       },
       {
