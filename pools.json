@@ -1565,6 +1565,11 @@
     "obric_v3": [
       {
         "xCoin": 1,
+        "yCoin": 2001,
+        "gasUnits": 150
+      },
+      {
+        "xCoin": 1,
         "yCoin": 3001,
         "gasUnits": 150
       },
@@ -1670,11 +1675,6 @@
       {
         "xCoin": 1,
         "yCoin": 4113,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 131,
-        "yCoin": 1,
         "gasUnits": 150
       },
       {
@@ -2096,6 +2096,16 @@
           "asset_1": 1
         },
         "poolType": 81069191339180030
+      },
+      {
+        "xCoin": 3004,
+        "yCoin": 1,
+        "gasUnits": 150,
+        "thalaStable": {
+          "asset_0": 3004,
+          "asset_1": 1
+        },
+        "poolType": 90076390593921020
       }
     ],
     "thala_weight": [
