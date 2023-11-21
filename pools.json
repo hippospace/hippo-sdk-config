@@ -1093,6 +1093,12 @@
     "econia": [
       {
         "xCoin": 1,
+        "yCoin": 3001,
+        "gasUnits": 150,
+        "poolType": 7
+      },
+      {
+        "xCoin": 1,
         "yCoin": 3002,
         "gasUnits": 150,
         "poolType": 5
