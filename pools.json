@@ -1727,6 +1727,11 @@
       },
       {
         "xCoin": 2001,
+        "yCoin": 952,
+        "gasUnits": 150
+      },
+      {
+        "xCoin": 2001,
         "yCoin": 2002,
         "gasUnits": 150
       },
