@@ -1472,14 +1472,6 @@
         "poolType": 60
       },
       {
-        "xCoin": 952,
-        "yCoin": 1,
-        "gasUnits": 150,
-        "address": "0x9e3fd498f89e8e7e36720a2c9b6f4bfefe4f7ef1db7e4a7ee5735cebadb06126",
-        "tickSpacing": 2,
-        "poolType": 2
-      },
-      {
         "xCoin": 2002,
         "yCoin": 2001,
         "gasUnits": 150,
@@ -1550,16 +1542,6 @@
       }
     ],
     "obric_v3": [
-      {
-        "xCoin": 1,
-        "yCoin": 2001,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 3001,
-        "gasUnits": 150
-      },
       {
         "xCoin": 3004,
         "yCoin": 3001,
