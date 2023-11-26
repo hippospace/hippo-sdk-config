@@ -214,20 +214,6 @@
         "yCoin": 2004
       }
     ],
-    "1-2011": [
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2011,
-        "yCoin": 1
-      },
-      {
-        "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 2011
-      }
-    ],
     "1-351": [
       {
         "dexType": 8,
@@ -736,20 +722,6 @@
         "yCoin": 2004
       }
     ],
-    "1-2011": [
-      {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 2011,
-        "yCoin": 1
-      },
-      {
-        "dexType": 9,
-        "poolType": 0,
-        "xCoin": 1,
-        "yCoin": 2011
-      }
-    ],
     "1-351": [
       {
         "dexType": 8,
@@ -1183,11 +1155,6 @@
       {
         "xCoin": 1,
         "yCoin": 2004,
-        "gasUnits": 150
-      },
-      {
-        "xCoin": 1,
-        "yCoin": 2011,
         "gasUnits": 150
       },
       {
