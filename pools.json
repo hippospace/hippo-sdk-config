@@ -1048,10 +1048,10 @@
         "yCoin": 4001
       },
       {
-        "dexType": 3,
-        "poolType": 0,
-        "xCoin": 4001,
-        "yCoin": 1
+        "dexType": 13,
+        "poolType": 60,
+        "xCoin": 1,
+        "yCoin": 4001
       }
     ],
     "1-4002": [
@@ -1360,12 +1360,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 23
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 23
+        "gasUnits": 21
       },
       {
         "xCoin": 1,
@@ -1385,22 +1385,22 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 2004,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 22
+        "gasUnits": 21
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 22
+        "gasUnits": 21
       }
     ],
     "aux_market": [],
@@ -1552,7 +1552,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 224,
+        "gasUnits": 222,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -1575,6 +1575,14 @@
       },
       {
         "xCoin": 1,
+        "yCoin": 4001,
+        "gasUnits": 708,
+        "address": "0xcd321dbfa787982a38e61973a4645481035fc2a7a528880cd486f9cda027458c",
+        "tickSpacing": 60,
+        "poolType": 60
+      },
+      {
+        "xCoin": 1,
         "yCoin": 4002,
         "gasUnits": 711,
         "address": "0xb75dc4bbcc37c85168218e5e6e4d417cf57f9fe349df313cbe17267a3355b3a6",
@@ -1592,7 +1600,7 @@
       {
         "xCoin": 156,
         "yCoin": 1,
-        "gasUnits": 293,
+        "gasUnits": 330,
         "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
         "tickSpacing": 2,
         "poolType": 2
@@ -1600,7 +1608,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 293,
+        "gasUnits": 330,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1632,7 +1640,7 @@
       {
         "xCoin": 2004,
         "yCoin": 2001,
-        "gasUnits": 293,
+        "gasUnits": 330,
         "address": "0x2e441bd3adc2e23e102a7ee3c5c3abc71080bb7f081bba9c44442c978fd06bb3",
         "tickSpacing": 60,
         "poolType": 60
@@ -1656,7 +1664,7 @@
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 293,
+        "gasUnits": 330,
         "address": "0x2d08c1ffce005855f6b168f3ef150480acdecd29fa878f7c9d610496a48affb7",
         "tickSpacing": 60,
         "poolType": 60
@@ -1720,12 +1728,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 350
+        "gasUnits": 410
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 352
+        "gasUnits": 412
       }
     ],
     "pancake": [
@@ -2135,7 +2143,7 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 3808
+        "gasUnits": 3756
       },
       {
         "xCoin": 1,
@@ -2160,7 +2168,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 3555
+        "gasUnits": 3515
       },
       {
         "xCoin": 2002,
@@ -2185,7 +2193,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 3526
+        "gasUnits": 3565
       },
       {
         "xCoin": 3001,
@@ -2205,19 +2213,19 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 2882
+        "gasUnits": 2878
       },
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 2882
+        "gasUnits": 2878
       }
     ],
     "thala_stable": [
       {
         "xCoin": 1,
         "yCoin": 225,
-        "gasUnits": 621,
+        "gasUnits": 620,
         "thalaStable": {
           "asset_0": 1,
           "asset_1": 225
