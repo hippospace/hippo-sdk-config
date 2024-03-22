@@ -1486,13 +1486,13 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 131,
+        "gasUnits": 378,
         "poolType": 7
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 131,
+        "gasUnits": 378,
         "poolType": 8
       }
     ],
@@ -1568,14 +1568,19 @@
         "gasUnits": 61
       },
       {
+        "xCoin": 1,
+        "yCoin": 4119,
+        "gasUnits": 605
+      },
+      {
         "xCoin": 156,
         "yCoin": 952,
-        "gasUnits": 152
+        "gasUnits": 176
       },
       {
         "xCoin": 351,
         "yCoin": 3001,
-        "gasUnits": 152
+        "gasUnits": 176
       },
       {
         "xCoin": 2001,
@@ -1863,7 +1868,7 @@
       {
         "xCoin": 3001,
         "yCoin": 2001,
-        "gasUnits": 121,
+        "gasUnits": 119,
         "address": "0x9d68e56fff677c57342a031ac3ab2999946c98db4ff29330e33273839bae46d5",
         "tickSpacing": 2,
         "poolType": 2
@@ -1871,7 +1876,7 @@
       {
         "xCoin": 3002,
         "yCoin": 3001,
-        "gasUnits": 123,
+        "gasUnits": 124,
         "address": "0x4b0f0ca14ef461b8a24515b519ba740729ed60ac028a6d4d5b99148b31f2c72",
         "tickSpacing": 2,
         "poolType": 2
@@ -1940,7 +1945,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 365
+        "gasUnits": 368
       }
     ],
     "pancake": [
@@ -2133,6 +2138,11 @@
         "xCoin": 397,
         "yCoin": 4001,
         "gasUnits": 564
+      },
+      {
+        "xCoin": 912,
+        "yCoin": 129,
+        "gasUnits": 249
       },
       {
         "xCoin": 912,
@@ -2375,22 +2385,22 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 1235
+        "gasUnits": 1236
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 697
+        "gasUnits": 706
       },
       {
         "xCoin": 156,
         "yCoin": 952,
-        "gasUnits": 692
+        "gasUnits": 694
       },
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 556
+        "gasUnits": 558
       },
       {
         "xCoin": 2001,
@@ -2405,12 +2415,12 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 758
+        "gasUnits": 751
       },
       {
         "xCoin": 2002,
         "yCoin": 3001,
-        "gasUnits": 564
+        "gasUnits": 571
       },
       {
         "xCoin": 2002,
@@ -2420,7 +2430,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 588
+        "gasUnits": 589
       },
       {
         "xCoin": 3001,
@@ -2430,7 +2440,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 731
+        "gasUnits": 733
       },
       {
         "xCoin": 3001,
@@ -2440,7 +2450,7 @@
       {
         "xCoin": 3002,
         "yCoin": 1,
-        "gasUnits": 583
+        "gasUnits": 598
       },
       {
         "xCoin": 3002,
@@ -2450,12 +2460,12 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 692
+        "gasUnits": 694
       },
       {
         "xCoin": 5001,
         "yCoin": 3001,
-        "gasUnits": 692
+        "gasUnits": 694
       }
     ],
     "thala_stable": [
@@ -2730,18 +2740,6 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 124,
-        "thalaWeight": {
-          "asset_0": 3001,
-          "asset_1": 1,
-          "weight_0": "20",
-          "weight_1": "80"
-        },
-        "poolType": 72061992084586500
-      },
-      {
-        "xCoin": 3001,
-        "yCoin": 1,
         "gasUnits": 123,
         "thalaWeight": {
           "asset_0": 3001,
@@ -2750,6 +2748,18 @@
           "weight_1": "50"
         },
         "poolType": 72061992084776960
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 1,
+        "gasUnits": 124,
+        "thalaWeight": {
+          "asset_0": 3001,
+          "asset_1": 1,
+          "weight_0": "20",
+          "weight_1": "80"
+        },
+        "poolType": 72061992084586500
       },
       {
         "xCoin": 3001,
