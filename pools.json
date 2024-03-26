@@ -670,20 +670,6 @@
         "yCoin": 223
       }
     ],
-    "223-227": [
-      {
-        "dexType": 3,
-        "poolType": 2,
-        "xCoin": 223,
-        "yCoin": 227
-      },
-      {
-        "dexType": 11,
-        "poolType": 0,
-        "xCoin": 223,
-        "yCoin": 227
-      }
-    ],
     "1-4002": [
       {
         "dexType": 11,
@@ -1438,20 +1424,6 @@
         "yCoin": 223
       }
     ],
-    "223-227": [
-      {
-        "dexType": 3,
-        "poolType": 2,
-        "xCoin": 223,
-        "yCoin": 227
-      },
-      {
-        "dexType": 11,
-        "poolType": 0,
-        "xCoin": 223,
-        "yCoin": 227
-      }
-    ],
     "1-4002": [
       {
         "dexType": 11,
@@ -1500,13 +1472,13 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 396,
+        "gasUnits": 131,
         "poolType": 7
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 396,
+        "gasUnits": 131,
         "poolType": 8
       }
     ],
@@ -1850,7 +1822,7 @@
       {
         "xCoin": 156,
         "yCoin": 1,
-        "gasUnits": 208,
+        "gasUnits": 206,
         "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
         "tickSpacing": 2,
         "poolType": 2
@@ -1858,7 +1830,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 208,
+        "gasUnits": 206,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1866,7 +1838,7 @@
       {
         "xCoin": 952,
         "yCoin": 1,
-        "gasUnits": 147,
+        "gasUnits": 133,
         "address": "0x9e3fd498f89e8e7e36720a2c9b6f4bfefe4f7ef1db7e4a7ee5735cebadb06126",
         "tickSpacing": 2,
         "poolType": 2
@@ -1892,7 +1864,7 @@
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 13
+        "gasUnits": 12
       },
       {
         "xCoin": 1,
@@ -1922,7 +1894,7 @@
       {
         "xCoin": 4001,
         "yCoin": 3001,
-        "gasUnits": 13
+        "gasUnits": 12
       }
     ],
     "obric_v3": [
@@ -1946,12 +1918,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 150
+        "gasUnits": 368
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 150
+        "gasUnits": 368
       }
     ],
     "pancake": [
@@ -2396,12 +2368,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 1247
+        "gasUnits": 1246
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 682
+        "gasUnits": 690
       },
       {
         "xCoin": 156,
@@ -2411,7 +2383,7 @@
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 560
+        "gasUnits": 552
       },
       {
         "xCoin": 2001,
@@ -2426,12 +2398,12 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 760
+        "gasUnits": 759
       },
       {
         "xCoin": 2002,
         "yCoin": 3001,
-        "gasUnits": 570
+        "gasUnits": 562
       },
       {
         "xCoin": 2002,
@@ -2441,7 +2413,7 @@
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 582
+        "gasUnits": 585
       },
       {
         "xCoin": 3001,
@@ -2451,7 +2423,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 738
+        "gasUnits": 742
       },
       {
         "xCoin": 3001,
@@ -2461,7 +2433,7 @@
       {
         "xCoin": 3002,
         "yCoin": 1,
-        "gasUnits": 577
+        "gasUnits": 581
       },
       {
         "xCoin": 3002,
@@ -2543,7 +2515,7 @@
       {
         "xCoin": 2001,
         "yCoin": 128,
-        "gasUnits": 606,
+        "gasUnits": 605,
         "thalaStable": {
           "asset_0": 2001,
           "asset_1": 128
@@ -2970,8 +2942,8 @@
         "gasUnits": 415
       },
       {
-        "xCoin": 223,
-        "yCoin": 227,
+        "xCoin": 230,
+        "yCoin": 223,
         "gasUnits": 415
       },
       {
