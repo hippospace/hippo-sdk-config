@@ -608,6 +608,20 @@
         "yCoin": 1
       }
     ],
+    "1-912": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 912
+      },
+      {
+        "dexType": 3,
+        "poolType": 2,
+        "xCoin": 912,
+        "yCoin": 1
+      }
+    ],
     "1-10": [
       {
         "dexType": 11,
@@ -1368,6 +1382,20 @@
         "yCoin": 1
       }
     ],
+    "1-912": [
+      {
+        "dexType": 11,
+        "poolType": 0,
+        "xCoin": 1,
+        "yCoin": 912
+      },
+      {
+        "dexType": 3,
+        "poolType": 2,
+        "xCoin": 912,
+        "yCoin": 1
+      }
+    ],
     "1-10": [
       {
         "dexType": 11,
@@ -1484,13 +1512,13 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 190,
+        "gasUnits": 196,
         "poolType": 7
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 190,
+        "gasUnits": 196,
         "poolType": 8
       }
     ],
@@ -1610,7 +1638,7 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 29
+        "gasUnits": 12
       },
       {
         "xCoin": 1,
@@ -1630,22 +1658,22 @@
       {
         "xCoin": 2003,
         "yCoin": 1,
-        "gasUnits": 15
+        "gasUnits": 12
       },
       {
         "xCoin": 2004,
         "yCoin": 1,
-        "gasUnits": 15
+        "gasUnits": 12
       },
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 15
+        "gasUnits": 12
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 15
+        "gasUnits": 12
       }
     ],
     "aux_market": [],
@@ -1834,7 +1862,7 @@
       {
         "xCoin": 156,
         "yCoin": 1,
-        "gasUnits": 238,
+        "gasUnits": 206,
         "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
         "tickSpacing": 2,
         "poolType": 2
@@ -1842,7 +1870,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 238,
+        "gasUnits": 206,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1858,7 +1886,7 @@
       {
         "xCoin": 3001,
         "yCoin": 2001,
-        "gasUnits": 343,
+        "gasUnits": 119,
         "address": "0x9d68e56fff677c57342a031ac3ab2999946c98db4ff29330e33273839bae46d5",
         "tickSpacing": 2,
         "poolType": 2
@@ -1874,7 +1902,7 @@
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 238,
+        "gasUnits": 206,
         "address": "0x2d08c1ffce005855f6b168f3ef150480acdecd29fa878f7c9d610496a48affb7",
         "tickSpacing": 60,
         "poolType": 60
@@ -1943,7 +1971,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 368
+        "gasUnits": 365
       }
     ],
     "pancake": [
@@ -2403,12 +2431,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 1236
+        "gasUnits": 1237
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 694
+        "gasUnits": 691
       },
       {
         "xCoin": 156,
@@ -2418,7 +2446,7 @@
       {
         "xCoin": 2001,
         "yCoin": 1,
-        "gasUnits": 557
+        "gasUnits": 554
       },
       {
         "xCoin": 2001,
@@ -2433,7 +2461,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 759
+        "gasUnits": 760
       },
       {
         "xCoin": 2002,
@@ -2443,7 +2471,7 @@
       {
         "xCoin": 2002,
         "yCoin": 3002,
-        "gasUnits": 606
+        "gasUnits": 603
       },
       {
         "xCoin": 3001,
@@ -2458,7 +2486,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 737
+        "gasUnits": 748
       },
       {
         "xCoin": 3001,
@@ -3001,6 +3029,11 @@
       {
         "xCoin": 800,
         "yCoin": 232,
+        "gasUnits": 415
+      },
+      {
+        "xCoin": 912,
+        "yCoin": 1,
         "gasUnits": 415
       },
       {
