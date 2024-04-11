@@ -1432,13 +1432,13 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 439,
+        "gasUnits": 252,
         "poolType": 7
       },
       {
         "xCoin": 3004,
         "yCoin": 3001,
-        "gasUnits": 439,
+        "gasUnits": 252,
         "poolType": 8
       }
     ],
@@ -1548,12 +1548,12 @@
       {
         "xCoin": 1,
         "yCoin": 2002,
-        "gasUnits": 12
+        "gasUnits": 29
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 30
+        "gasUnits": 12
       },
       {
         "xCoin": 1,
@@ -1740,7 +1740,7 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 184,
+        "gasUnits": 183,
         "address": "0x5b0b1c0d7a22fd7c59dedc00f906e9cb68033d13589a739b0d18cf25e317bdd4",
         "tickSpacing": 60,
         "poolType": 60
@@ -1772,7 +1772,7 @@
       {
         "xCoin": 156,
         "yCoin": 1,
-        "gasUnits": 208,
+        "gasUnits": 209,
         "address": "0x6b87ca2cd7041bfa1515d380c6ceb8c23bd3c8cb455fc4dd9c3d34e728b714b",
         "tickSpacing": 2,
         "poolType": 2
@@ -1780,7 +1780,7 @@
       {
         "xCoin": 928,
         "yCoin": 1,
-        "gasUnits": 208,
+        "gasUnits": 209,
         "address": "0x1c3f3085d7bf6fa7f8357f5386783c4ad918022e1cf5e88ecdedb7b8c1ded3ae",
         "tickSpacing": 60,
         "poolType": 60
@@ -1796,7 +1796,7 @@
       {
         "xCoin": 3001,
         "yCoin": 2001,
-        "gasUnits": 119,
+        "gasUnits": 125,
         "address": "0x9d68e56fff677c57342a031ac3ab2999946c98db4ff29330e33273839bae46d5",
         "tickSpacing": 2,
         "poolType": 2
@@ -1868,12 +1868,12 @@
       {
         "xCoin": 1,
         "yCoin": 2001,
-        "gasUnits": 333
+        "gasUnits": 310
       },
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 313
+        "gasUnits": 357
       }
     ],
     "pancake": [
@@ -2328,12 +2328,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 1244
+        "gasUnits": 1237
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 693
+        "gasUnits": 697
       },
       {
         "xCoin": 2001,
@@ -2353,7 +2353,7 @@
       {
         "xCoin": 2001,
         "yCoin": 3001,
-        "gasUnits": 751
+        "gasUnits": 756
       },
       {
         "xCoin": 2002,
@@ -2363,12 +2363,12 @@
       {
         "xCoin": 2002,
         "yCoin": 3002,
-        "gasUnits": 609
+        "gasUnits": 606
       },
       {
         "xCoin": 3001,
         "yCoin": 1,
-        "gasUnits": 600
+        "gasUnits": 587
       },
       {
         "xCoin": 3001,
@@ -2378,7 +2378,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 739
+        "gasUnits": 753
       },
       {
         "xCoin": 3001,
@@ -2430,7 +2430,7 @@
       {
         "xCoin": 128,
         "yCoin": 1,
-        "gasUnits": 248,
+        "gasUnits": 223,
         "thalaStable": {
           "asset_0": 128,
           "asset_1": 1
@@ -2440,7 +2440,7 @@
       {
         "xCoin": 128,
         "yCoin": 3001,
-        "gasUnits": 248,
+        "gasUnits": 223,
         "thalaStable": {
           "asset_0": 128,
           "asset_1": 3001
@@ -2450,22 +2450,12 @@
       {
         "xCoin": 222,
         "yCoin": 1,
-        "gasUnits": 248,
+        "gasUnits": 223,
         "thalaStable": {
           "asset_0": 222,
           "asset_1": 1
         },
         "poolType": 144119586122366980
-      },
-      {
-        "xCoin": 224,
-        "yCoin": 1,
-        "gasUnits": 248,
-        "thalaStable": {
-          "asset_0": 224,
-          "asset_1": 1
-        },
-        "poolType": 126105187612885000
       },
       {
         "xCoin": 2001,
@@ -2498,6 +2488,16 @@
         "poolType": 72061992084439040
       },
       {
+        "xCoin": 3001,
+        "yCoin": 3002,
+        "gasUnits": 74,
+        "thalaStable": {
+          "asset_0": 3001,
+          "asset_1": 3002
+        },
+        "poolType": 72097176456527870
+      },
+      {
         "xCoin": 3002,
         "yCoin": 1,
         "gasUnits": 66,
@@ -2510,7 +2510,7 @@
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 248,
+        "gasUnits": 223,
         "thalaStable": {
           "asset_0": 3004,
           "asset_1": 1
@@ -2522,7 +2522,7 @@
       {
         "xCoin": 111,
         "yCoin": 1,
-        "gasUnits": 303,
+        "gasUnits": 257,
         "thalaWeight": {
           "asset_0": 111,
           "asset_1": 1,
@@ -2534,7 +2534,7 @@
       {
         "xCoin": 128,
         "yCoin": 1,
-        "gasUnits": 303,
+        "gasUnits": 257,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 1,
@@ -2546,7 +2546,7 @@
       {
         "xCoin": 128,
         "yCoin": 129,
-        "gasUnits": 303,
+        "gasUnits": 257,
         "thalaWeight": {
           "asset_0": 128,
           "asset_1": 129,
@@ -2558,7 +2558,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 303,
+        "gasUnits": 257,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -2570,7 +2570,7 @@
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 303,
+        "gasUnits": 257,
         "thalaWeight": {
           "asset_0": 129,
           "asset_1": 1,
@@ -2580,16 +2580,16 @@
         "poolType": 27025995811294210
       },
       {
-        "xCoin": 224,
-        "yCoin": 1,
-        "gasUnits": 303,
+        "xCoin": 129,
+        "yCoin": 3001,
+        "gasUnits": 257,
         "thalaWeight": {
-          "asset_0": 224,
-          "asset_1": 1,
+          "asset_0": 129,
+          "asset_1": 3001,
           "weight_0": "50",
           "weight_1": "50"
         },
-        "poolType": 126105187613222910
+        "poolType": 27056782136649730
       },
       {
         "xCoin": 397,
@@ -2634,6 +2634,18 @@
         "thalaWeight": {
           "asset_0": 3001,
           "asset_1": 1,
+          "weight_0": "20",
+          "weight_1": "80"
+        },
+        "poolType": 72061992084586500
+      },
+      {
+        "xCoin": 3001,
+        "yCoin": 1,
+        "gasUnits": 123,
+        "thalaWeight": {
+          "asset_0": 3001,
+          "asset_1": 1,
           "weight_0": "50",
           "weight_1": "50"
         },
@@ -2662,6 +2674,18 @@
           "weight_1": "50"
         },
         "poolType": 72110370596399100
+      },
+      {
+        "xCoin": 3002,
+        "yCoin": 1,
+        "gasUnits": 121,
+        "thalaWeight": {
+          "asset_0": 3002,
+          "asset_1": 1,
+          "weight_0": "50",
+          "weight_1": "50"
+        },
+        "poolType": 81069191339517950
       }
     ],
     "pontem_v05_stable": [
@@ -2780,57 +2804,57 @@
       {
         "xCoin": 10,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 129,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 129,
         "yCoin": 3001,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 222,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 232,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 234,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 239,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 420,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 790,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 800,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 800,
         "yCoin": 232,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 2001,
@@ -2855,17 +2879,17 @@
       {
         "xCoin": 3002,
         "yCoin": 10,
-        "gasUnits": 624
+        "gasUnits": 685
       },
       {
         "xCoin": 3004,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       },
       {
         "xCoin": 3333,
         "yCoin": 1,
-        "gasUnits": 410
+        "gasUnits": 415
       }
     ]
   }
