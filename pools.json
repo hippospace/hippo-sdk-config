@@ -1757,7 +1757,7 @@
       {
         "xCoin": 1,
         "yCoin": 3001,
-        "gasUnits": 112
+        "gasUnits": 113
       }
     ],
     "pancake": [
@@ -2207,12 +2207,12 @@
       {
         "xCoin": 1,
         "yCoin": 156,
-        "gasUnits": 1192
+        "gasUnits": 1189
       },
       {
         "xCoin": 1,
         "yCoin": 952,
-        "gasUnits": 664
+        "gasUnits": 656
       },
       {
         "xCoin": 2001,
@@ -2257,7 +2257,7 @@
       {
         "xCoin": 3001,
         "yCoin": 3002,
-        "gasUnits": 739
+        "gasUnits": 746
       },
       {
         "xCoin": 3001,
